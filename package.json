@@ -1,0 +1,29 @@
+{
+  "name": "bookkeeping-categorization",
+  "version": "1.0.0",
+  "description": "Bookkeeping categorization application with React frontend and Rails API",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:web\" \"npm run dev:api\"",
+    "dev:web": "cd web && npm run dev -- --port 3000",
+    "dev:api": "cd api && rails server -p 3001",
+    "install:all": "npm install && cd web && npm install && cd ../api && bundle install",
+    "build": "cd web && npm run build",
+    "start": "npm run dev",
+    "setup": "npm run install:all && cd api && rails db:create db:migrate db:seed"
+  },
+  "keywords": [
+    "bookkeeping",
+    "categorization",
+    "react",
+    "rails",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,1001 @@
+amount,description,date,category_id,category_name
+-2425,Internet service - AT&T,2025-09-17,5,Bills & Utilities
+-554.99,Best Buy - home goods,2025-09-20,3,Shopping
+5581.4355083149785,Freelance payment - Small Business,2025-06-10,8,Income
+-14.0,Lunch at Chipotle,2025-03-28,1,Food & Dining
+-1558,Water bill - June,2024-08-06,5,Bills & Utilities
+-23.95,Snacks at Shell,2024-01-18,1,Food & Dining
+-457.99,Amazon purchase - books,2024-10-08,3,Shopping
+5948.978955011371,Investment dividend,2024-05-20,8,Income
+-28.65566347024931,Metro card reload,2024-12-27,2,Transportation
+-407.99,Best Buy - home goods,2024-07-17,3,Shopping
+-22.5,Breakfast at Morning Brew,2025-06-01,1,Food & Dining
+-15.564909597817813,Metro card reload,2025-08-17,2,Transportation
+-537.5130159977194,Amazon purchase - electronics 845,2025-01-31,3,Shopping
+-672.99,Target - toys,2024-09-18,3,Shopping
+-7.0,Breakfast at Coffee Bean,2025-07-17,1,Food & Dining
+-537,Internet service - Verizon - Inc,2025-05-17,5,Bills & Utilities
+-38.13545453934197,Gas at Exxon,2025-05-25,,
+-81.49,Lunch at Chipotle - Fee,2024-04-12,1,Food & Dining
+-2089,Water bill - March,2024-05-13,5,Bills & Utilities
+-34.95,Lunch at Chipotle,2025-09-13,1,Food & Dining
+-8.99,Takeout from Panera - LLC,2024-08-18,1,Food & Dining
+5035.22064982247,Investment dividend,2025-05-11,8,Income
+-2370,Electric bill - March,2025-07-21,5,Bills & Utilities
+-11.0,Grocery shopping at Walmart,2025-01-06,1,Food & Dining
+-22.0,Grocery shopping at Kroger,2024-04-14,1,Food & Dining
+-890.99,Amazon purchase - toys,2025-07-26,3,Shopping
+-1689,Insurance payment - health,2025-07-08,5,Bills & Utilities
+-15.0,Takeout from Pizza Hut,2024-10-16,1,Food & Dining
+-81.76957074689606,Video game - Call of Duty - Mobile,2024-02-05,4,Entertainment
+-1423.0059528186564,Investment deposit,2024-03-05,9,Savings
+-20.49,Breakfast at Morning Brew,2023-10-31,1,Food & Dining
+-432.59667082573543,Dental cleaning - Inc,2025-03-18,6,Healthcare
+-601.8264785798082,Pharmacy - prescription,2024-03-26,6,Healthcare
+-733.3912045682324,Online order from Walmart,2025-02-03,3,Shopping
+-149.99,Walmart - electronics,2024-03-06,3,Shopping
+-444.99,Best Buy - toys,2024-12-11,3,Shopping
+-815.99,Walmart - toys - Payment 417,2024-09-28,3,Shopping
+-466.13110465853345,Online order from Home Depot,2024-06-07,3,Shopping
+-36.99,Takeout from Taco Bell,2023-11-25,1,Food & Dining
+-507,Insurance payment - home,2023-11-05,5,Bills & Utilities
+-21.49,Breakfast at Morning Brew,2025-06-17,1,Food & Dining
+-48.49,Coffee at Starbucks,2025-04-04,1,Food & Dining
+-19.5,Snacks at 7-Eleven,2025-06-26,1,Food & Dining
+-882.99,Amazon purchase - electronics,2024-09-01,3,Shopping
+-60.85287457285353,Toll road payment,2025-03-09,2,Transportation
+-56.66828280244872,Metro card reload,2025-06-27,2,Transportation
+-622.0094818551772,Flight tickets - Delta,2023-12-29,7,Travel
+-1023,Internet service - AT&T,2025-05-23,5,Bills & Utilities
+-230.39520330097048,Dental cleaning,2024-01-29,6,Healthcare
+-62.99,Grocery shopping at Trader Joe's,2025-02-22,10,Miscellaneous
+-185.1100251438648,Online order from Best Buy,2025-05-19,3,Shopping
+-2250,Water bill - March,2025-03-09,5,Bills & Utilities
+-2108.421127783243,Rental car - Enterprise,2024-05-29,7,Travel
+-110.30511071058572,Movie tickets at Alamo Drafthouse,2024-03-28,4,Entertainment
+-50.09208193290927,Streaming service - Hulu,2023-12-13,4,Entertainment
+-86.83790160371763,Prescription - antibiotics,2025-04-11,6,Healthcare
+-1122.6132988971235,Airbnb - Miami,2024-10-18,7,Travel
+-185.6174309349341,Netflix subscription,2024-08-03,4,Entertainment
+-2138,Insurance payment - home,2024-11-05,5,Bills & Utilities
+-290.99,Online order from Home Depot,2024-02-15,3,Shopping
+-471,Electric bill - February,2025-09-21,5,Bills & Utilities
+-405.99,Online order from Home Depot,2025-05-10,3,Shopping
+-744.9779585619036,Emergency fund transfer,2025-08-31,9,Savings
+-895,Phone bill - Verizon,2025-03-08,5,Bills & Utilities
+7447.982753054856,Bonus payment,2025-06-05,8,Income
+-52.779238696093664,Gas at Exxon,2025-07-18,2,Transportation
+-481.3475884460468,Pharmacy - vitamins,2024-02-07,6,Healthcare
+-2918.8176731632693,Flight tickets - Southwest,2024-12-14,7,Travel
+-10.0,Coffee at Starbucks - Location 49,2024-07-19,1,Food & Dining
+2229.378399184534,Salary deposit - Tech Corp,2023-11-28,8,Income
+-453.99,Target - toys - -453.99,2024-01-30,3,Shopping
+-49.99,Takeout from Subway,2024-07-30,1,Food & Dining
+-1507.6965128305521,Airbnb - Chicago,2023-06-08,7,Travel
+-24.5,Breakfast at Morning Brew,2024-09-10,1,Food & Dining
+-128,Water bill - February,2024-04-24,5,Bills & Utilities
+-287.99,Target - home goods,2025-07-08,3,Shopping
+-5.941319857315719,Uber ride to hospital,2023-10-14,2,Transportation
+-55.67025423414261,Uber ride to mall,2024-01-20,2,Transportation
+-34.0,Takeout from Subway,2025-01-18,1,Food & Dining
+-1941,Water bill - February,2024-03-17,5,Bills & Utilities
+-21.99,Snacks at Circle K,2025-06-12,1,Food & Dining
+-63.49,Takeout from Pizza Hut - Fee,2024-07-24,1,Food & Dining
+-64.99,Grocery shopping at Target,2024-10-10,1,Food & Dining
+507.97410527910023,Freelance payment - Small Business,2024-09-09,8,Income
+-635.99,Target - books - Payment 473,2025-06-15,3,Shopping
+-26.09231563234279,Lyft to mall,2023-11-22,2,Transportation
+4565.8106755378585,Refund - Target,2024-05-26,8,Income
+-1932.145910235147,Flight tickets - Southwest,2024-06-11,7,Travel
+-609.9136650634575,Walmart - electronics,2023-10-04,3,Shopping
+-68.938,Gas at Chevron,2025-02-24,2,Transportation
+-122.00632421374341,Best Buy - toys,2024-06-26,,
+51.68023992147833,Salary deposit - Local Business,2025-05-24,8,Income
+-15.99,Breakfast at Coffee Bean,2024-08-02,1,Food & Dining
+-522,Phone bill - AT&T,2025-09-21,5,Bills & Utilities
+-186.91707627993082,Best Buy - books,2023-12-26,3,Shopping
+-67.99,Takeout from Subway 872,2024-04-15,1,Food & Dining
+-267,Water bill - May,2025-09-21,5,Bills & Utilities
+-79.99,Breakfast at Morning Brew,2025-06-09,1,Food & Dining
+-320.4768585546154,Prescription - prescription,2024-10-24,6,Healthcare
+-1303,Electric bill - March,2023-10-03,5,Bills & Utilities
+-16.599,Toll road payment,2025-03-02,2,Transportation
+-53.521,Lyft to hospital,2024-12-21,2,Transportation
+-16.702315543221065,Parking at airport,2024-06-03,2,Transportation
+-1749,Electric bill - February,2025-05-27,5,Bills & Utilities
+-122.33613943508873,Online order from Walmart,2024-06-05,3,Shopping
+-1800.400055919993,Flight tickets - American,2024-10-30,7,Travel
+-46.95,Grocery shopping at Whole Foods,2024-11-18,1,Food & Dining
+-257.66075032160603,Amazon purchase - home goods,2025-08-12,3,Shopping
+-79.815,Toll road payment 382,2024-09-04,2,Transportation
+-1466,Insurance payment - home,2025-08-14,5,Bills & Utilities
+-3371.0666126037227,Airbnb - Miami,2025-12-20,7,Travel
+-246.4365987173937,Prescription - pain relief,2024-10-17,6,Healthcare
+-1907,Water bill - June,2025-09-19,5,Bills & Utilities
+-720.639897014429,Walmart - home goods,2025-05-01,3,Shopping
+-47.62940044055968,Uber ride to airport,2025-02-26,2,Transportation
+-69.99,Snacks at Shell,2025-06-07,1,Food & Dining
+-185.99,Best Buy - clothing,2023-11-20,3,Shopping
+-77.405,Uber ride to hospital,2025-08-30,2,Transportation
+-676.8475381971186,Amazon purchase - electronics,2023-09-23,3,Shopping
+-669.99,Target - clothing,2025-09-18,3,Shopping
+-1095.6631531359508,Rental car - Avis,2024-07-26,7,Travel
+-1126,Water bill - June,2025-09-18,5,Bills & Utilities
+-56.5,Breakfast at Morning Brew,2025-06-14,1,Food & Dining
+-67.95,Grocery shopping at Walmart - Corp,2024-08-02,1,Food & Dining
+-598.99,Target - books,2025-07-23,3,Shopping
+-30.172335237377826,Lyft to office,2024-12-30,2,Transportation
+-53.5,Breakfast at Corner Cafe,2025-02-22,1,Food & Dining
+-72,Phone bill - AT&T,2025-04-22,5,Bills & Utilities
+-2097,Electric bill - February - -2097,2024-07-24,5,Bills & Utilities
+-475.611825844622,Dental cleaning,2025-07-12,6,Healthcare
+-84.95,Lunch at McDonald's,2024-09-18,1,Food & Dining
+-286.99,Amazon purchase - books,2023-10-13,3,Shopping
+-82.95,Lunch at Pizza Hut,2025-07-10,1,Food & Dining
+-293,Insurance payment - health,2024-08-27,5,Bills & Utilities
+-51.473,Lyft to mall,2024-05-26,2,Transportation
+-77.95,DoorDash delivery,2024-05-28,1,Food & Dining
+-2923.9209135244128,Rental car - Hertz,2024-06-23,7,Travel
+-79.49,Snacks at BP,2025-04-01,1,Food & Dining
+-14.99,Takeout from McDonald's,2025-05-09,1,Food & Dining
+-389.99890812815937,Eye exam,2024-02-07,6,Healthcare
+-339.29054221862947,Eye exam,2025-07-24,6,Healthcare
+-875.4813403787425,Amazon purchase - electronics,2025-04-24,3,Shopping
+-19.49,Postmates delivery,2024-07-25,1,Food & Dining
+-342.99,Online order from Walmart,2025-04-28,3,Shopping
+-103.51084028414209,Spotify Premium,2023-12-31,4,Entertainment
+-47.99,Lunch at Panera,2024-07-25,1,Food & Dining
+-2155,Electric bill - June,2024-10-01,5,Bills & Utilities
+-174.16570149395807,Netflix subscription,2024-06-26,4,Entertainment
+-10.922,Parking at hospital,2025-07-13,2,Transportation
+-82.49,Takeout from Panera,2025-07-26,1,Food & Dining
+-730.1013992796032,Best Buy - books,2025-05-29,3,Shopping
+-205.66099555369004,Video game - Call of Duty,2024-04-30,4,Entertainment
+-58.95,Dinner at Panera,2024-06-29,1,Food & Dining
+-30.853560365078295,Netflix subscription - Inc,2025-05-04,4,Entertainment
+6232.506361246653,Freelance payment - Small Business,2024-11-19,8,Income
+-15.0,Lunch at Taco Bell - Transaction 359,2024-12-28,1,Food & Dining
+-4.99,Grubhub delivery,2024-02-05,1,Food & Dining
+-733.99,Walmart - electronics,2025-09-09,3,Shopping
+-263.7944267199309,Amazon purchase - books,2025-04-17,3,Shopping
+754.5568225703695,Investment dividend,2025-03-19,8,Income
+-493.94255900068487,Best Buy - books,2024-11-23,3,Shopping
+-64.522,Gas at BP,2025-09-18,2,Transportation
+-39.49,Dinner at Domino's,2024-05-14,1,Food & Dining
+-628.4805121220563,Pharmacy - vitamins,2025-06-20,6,Healthcare
+-54.49,Takeout from Taco Bell,2024-08-04,1,Food & Dining
+-15.95,Coffee at Caribou Coffee,2024-01-24,1,Food & Dining
+-281.8326187763751,Movie tickets at Cinemark,2025-05-11,4,Entertainment
+-62.4082073653871,Metro card reload,2024-01-02,2,Transportation
+-11.49,Uber Eats delivery,2024-05-11,1,Food & Dining
+1895.8873255364788,Investment dividend,2023-12-09,8,Income
+-41.49,Breakfast at Morning Brew,2025-01-04,1,Food & Dining
+-51.029109323256165,Toll road payment,2024-04-11,2,Transportation
+6577.712594322734,Investment dividend,2024-02-20,8,Income
+-28.5,Lunch at Panera,2025-09-12,1,Food & Dining
+-98.52323758477525,Netflix subscription,2024-04-10,4,Entertainment
+-68.91164137208108,Metro card reload,2025-09-03,2,Transportation
+-158.08235043330407,Netflix subscription,2023-10-25,4,Entertainment
+-114.39640729615854,Target - home goods,2024-10-15,3,Shopping
+-67.5,Lunch at Pizza Hut,2024-01-01,1,Food & Dining
+-1892,Electric bill - March,2025-01-04,5,Bills & Utilities
+-17.219200347630434,Movie tickets at Regal,2025-08-30,4,Entertainment
+-125.99,Amazon purchase - home goods,2024-11-02,3,Shopping
+-44.1316694841331,Gas at Shell,2025-05-03,2,Transportation
+-358.99,Walmart - toys,2025-02-13,3,Shopping
+-59.386,Gas at Exxon,2025-07-30,2,Transportation
+-647,Insurance payment - home,2024-06-17,5,Bills & Utilities
+-127.99,Walmart - books,2024-09-28,3,Shopping
+-811.99,Online order from Amazon,2025-01-19,3,Shopping
+-337.99,Amazon purchase - electronics,2024-01-04,3,Shopping
+-816.7233833049845,Best Buy - electronics,2025-08-24,3,Shopping
+-279.4562377952846,Netflix subscription,2024-10-01,4,Entertainment
+-304.2444114478423,Dental cleaning,2025-07-17,6,Healthcare
+-73.62021427377437,Gas at BP,2024-05-04,2,Transportation
+-26.99,Target - electronics,2024-02-17,3,Shopping
+-234.1033361737407,Airbnb - Seattle,2023-07-28,7,Travel
+-24.680011643864418,Toll road payment,2024-09-07,2,Transportation
+-75.99,Uber Eats delivery,2025-01-12,1,Food & Dining
+-83.99,Amazon purchase - home goods,2025-04-01,3,Shopping
+-83.0,Dinner at Taco Bell,2024-05-14,1,Food & Dining
+5847.040589688424,Refund - Amazon,2024-05-19,8,Income
+-12.0,Lunch at Chipotle - Branch 59,2024-08-29,1,Food & Dining
+-80.89584580976332,Gas at BP,2025-08-13,2,Transportation
+-34.94421305318184,Streaming service - HBO Max,2024-11-01,4,Entertainment
+-405.6075452975242,Walmart - home goods,2024-12-05,3,Shopping
+-669.99,Online order from Home Depot,2025-02-03,3,Shopping
+-442.20771839091094,Best Buy - books,2025-05-11,3,Shopping
+-243.99,Best Buy - toys,2025-04-18,3,Shopping
+-1426,Phone bill - Sprint,2023-12-09,5,Bills & Utilities
+-1473.9221077593927,Hotel booking - New York,2024-12-11,7,Travel
+-11.49,Lunch at Subway,2024-03-28,1,Food & Dining
+-310,Insurance payment - health,2024-10-18,5,Bills & Utilities
+-4.140427586320368,Lyft to mall,2024-02-06,2,Transportation
+-13.49,Postmates delivery,2023-12-06,1,Food & Dining
+-80.09957882668947,Metro card reload,2024-12-20,2,Transportation
+-77.5,Coffee at Starbucks,2024-12-04,1,Food & Dining
+-72.29204688531604,Spotify Premium,2024-05-31,4,Entertainment
+-516.2382369376513,Dental cleaning,2025-03-01,6,Healthcare
+-23.0,Lunch at Subway,2024-05-23,1,Food & Dining
+-15.182,Uber ride to mall,2025-09-18,2,Transportation
+-12.537517302378214,Gas at Shell,2025-07-18,2,Transportation
+5006.9436811603455,Investment dividend,2024-12-22,8,Income
+-42.497,Lyft to downtown,2024-11-07,2,Transportation
+-35.5,Dinner at Panera,2023-12-18,1,Food & Dining
+-465.47803378153424,Doctor visit - cardiology,2024-08-01,6,Healthcare
+-52.78860372848691,Lyft to downtown,2024-01-09,2,Transportation
+-79.5,Dinner at Domino's,2023-10-28,1,Food & Dining
+-58.807,Uber ride to airport,2023-11-02,2,Transportation
+-69.54744024058891,Gas at Chevron,2023-09-26,2,Transportation
+-250.43619372031583,Pharmacy - prescription,2025-01-12,6,Healthcare
+-804.99,Walmart - toys,2025-07-24,3,Shopping
+-72.45441937965576,Gas at Chevron - -72.45441937965576,2025-04-01,2,Transportation
+-86.23261492357622,Dental cleaning,2024-03-11,6,Healthcare
+-13.0,Coffee at Local Coffee Co. - -13.0,2025-01-24,1,Food & Dining
+-1085,Phone bill - AT&T,2025-09-19,5,Bills & Utilities
+-910.1336756690225,Emergency fund transfer,2024-10-17,9,Savings
+-47.028556348628975,Streaming service - Hulu,2024-12-21,4,Entertainment
+-2031,Internet service - AT&T,2025-09-17,5,Bills & Utilities
+-391.2469783850997,Eye exam - Online,2024-06-28,6,Healthcare
+-1403,Phone bill - Verizon,2024-06-03,5,Bills & Utilities
+-12.5,Uber Eats delivery,2024-07-21,1,Food & Dining
+-783.8107666569643,Prescription - vitamins,2025-08-02,6,Healthcare
+7958.741156890045,Freelance payment - Client A,2023-12-16,8,Income
+-393.67638470200563,Target - toys,2024-06-11,3,Shopping
+3931.8919392438224,Bonus payment,2025-06-27,8,Income
+-203,Phone bill - Sprint,2024-05-29,5,Bills & Utilities
+-75.99,Dinner at McDonald's,2024-04-28,1,Food & Dining
+-658.4215951282288,Best Buy - toys,2025-05-03,3,Shopping
+-752.1406342297989,Online order from Best Buy,2025-09-08,3,Shopping
+-1395,Electric bill - January,2025-09-19,,
+-68.49,Lunch at Chipotle,2024-03-09,1,Food & Dining
+-67.5,Dinner at Subway,2024-07-02,10,Miscellaneous
+-56.453,Metro card reload,2024-03-17,2,Transportation
+-61.99,Breakfast at Coffee Bean,2024-11-09,1,Food & Dining
+-39.0,Lunch at Pizza Hut,2023-09-29,1,Food & Dining
+-13.95,Grubhub delivery,2024-03-17,1,Food & Dining
+-211.23373716131184,Video game - Minecraft,2025-03-11,4,Entertainment
+-953.1394714427437,Airbnb - Chicago,2023-07-14,7,Travel
+-708.8135079633462,Prescription - prescription,2024-04-04,6,Healthcare
+-151.99,Amazon purchase - electronics,2023-09-26,3,Shopping
+-240.95012934578654,Video game - Fortnite,2024-12-11,4,Entertainment
+-3331.560072010947,Flight tickets - American,2024-10-15,7,Travel
+-33.5,Grubhub delivery,2025-07-27,,
+-764,Phone bill - Sprint,2025-09-14,5,Bills & Utilities
+-24.95,Dinner at Panera,2024-11-07,1,Food & Dining
+-598.7882697581965,Walmart - clothing,2024-01-20,3,Shopping
+-73.49,Takeout from McDonald's,2025-08-14,1,Food & Dining
+8158.048232769468,Refund - Restaurant,2024-05-05,8,Income
+-860.99,Amazon purchase - home goods,2024-05-20,3,Shopping
+-97.11784495143422,Spotify Premium,2024-07-05,4,Entertainment
+-53.88984502874662,Metro card reload,2025-02-03,2,Transportation
+-81.99,Takeout from Chipotle,2024-06-22,1,Food & Dining
+-26.5,Lunch at McDonald's,2024-11-20,1,Food & Dining
+-33.99,Dinner at McDonald's,2024-07-13,1,Food & Dining
+-75.5,Dinner at Subway,2024-10-31,1,Food & Dining
+-2265,Internet service - Spectrum,2025-09-19,5,Bills & Utilities
+-84.95,Coffee at Dunkin',2024-01-31,1,Food & Dining
+-181.91675827510278,Online order from Amazon,2023-12-18,3,Shopping
+-194.1773522480085,Streaming service - Prime Video,2023-12-14,4,Entertainment
+-65.49,Lunch at McDonald's,2024-10-16,1,Food & Dining
+-6.0,Grocery shopping at Walmart,2025-04-11,1,Food & Dining
+-60.95,Lunch at Chipotle,2024-05-31,1,Food & Dining
+-77.5,Snacks at Shell,2024-10-04,1,Food & Dining
+-793.99,Amazon purchase - electronics,2025-01-27,3,Shopping
+1379.4527833567133,Bonus payment,2024-04-19,8,Income
+-392.99,Target - clothing - Payment 659,2023-11-06,,
+-2337,Electric bill - June,2024-01-05,5,Bills & Utilities
+-498.63489947678795,Eye exam,2023-12-16,6,Healthcare
+-44.99,DoorDash delivery,2024-12-31,1,Food & Dining
+-859.99,Target - clothing,2025-07-26,3,Shopping
+-1930.9987277201033,Rental car - Avis,2024-07-24,7,Travel
+-858.2679547519227,Target - toys,2024-06-03,3,Shopping
+-271.1180773470156,Streaming service - Hulu,2024-10-31,4,Entertainment
+-38.04199310576725,Gas at Shell,2023-12-15,2,Transportation
+-43.549,Gas at Circle K,2024-11-17,2,Transportation
+-9.773704372138281,Metro card reload,2025-04-04,2,Transportation
+-831.99,Online order from Home Depot,2025-02-28,3,Shopping
+-1845.0406591202436,Airbnb - Miami,2024-06-13,7,Travel
+-44.40937438416736,Toll road payment,2025-03-22,2,Transportation
+-27.39593746495898,Toll road payment,2025-08-21,2,Transportation
+-254.9869899165745,Walmart - books,2024-03-12,3,Shopping
+-257.58017987649134,Movie tickets at Regal,2025-02-22,4,Entertainment
+-139,Water bill - June,2025-02-28,5,Bills & Utilities
+-76.95,Breakfast at Morning Brew - -76.95,2024-12-14,1,Food & Dining
+7416.861763751536,Bonus payment,2025-03-21,8,Income
+-679.203170192478,Online order from Amazon,2024-06-26,3,Shopping
+-542.99,Walmart - home goods,2025-05-04,3,Shopping
+-1785,Phone bill - T-Mobile,2025-09-19,5,Bills & Utilities
+-22.99,Lunch at Subway,2023-10-23,1,Food & Dining
+-11.95,Breakfast at Corner Cafe,2025-02-14,,
+-52.99,Lunch at Taco Bell,2025-03-24,1,Food & Dining
+-115.58225216759757,Streaming service - HBO Max,2025-09-04,4,Entertainment
+-241.0915732611275,Eye exam,2025-03-02,6,Healthcare
+-41.0,Lunch at Domino's,2023-10-01,1,Food & Dining
+-226.99,Walmart - electronics,2024-07-24,3,Shopping
+268.94199384729336,Salary deposit - Tech Corp,2023-10-04,8,Income
+-622.99,Online order from Amazon,2023-10-14,3,Shopping
+-2065,Electric bill - February,2025-09-08,5,Bills & Utilities
+-42.49,Breakfast at Corner Cafe,2024-05-31,1,Food & Dining
+-122.27222737381777,Best Buy - clothing,2024-04-19,,
+1683.6817979312175,Freelance payment - Client A,2024-02-05,8,Income
+-67.355,Uber ride to airport,2024-08-01,2,Transportation
+-42.95,Breakfast at Corner Cafe 676,2025-02-18,1,Food & Dining
+-462.99,Best Buy - clothing,2024-08-04,3,Shopping
+-30.99,Walmart - toys,2024-06-21,3,Shopping
+-44.0,Coffee at Caribou Coffee,2025-04-08,1,Food & Dining
+-75.829,Lyft to office,2024-08-27,2,Transportation
+-2485,Internet service - Comcast,2025-08-16,5,Bills & Utilities
+-538,Water bill - March,2025-09-18,5,Bills & Utilities
+-7.0,Breakfast at Coffee Bean,2024-01-06,10,Miscellaneous
+-210.94582646755444,Video game - Call of Duty,2024-09-15,4,Entertainment
+-70.49,Coffee at Local Coffee Co.,2024-12-21,,
+-60.49,Coffee at Caribou Coffee,2025-04-07,1,Food & Dining
+-682.99,Amazon purchase - clothing,2024-11-13,3,Shopping
+-19.49,Dinner at Chipotle,2025-03-05,1,Food & Dining
+-528.99,Target - electronics,2024-10-10,3,Shopping
+-1538,Internet service - Comcast,2025-09-19,5,Bills & Utilities
+-47.10237275110098,Movie tickets at Alamo Drafthouse,2025-06-23,4,Entertainment
+7269.188350011255,Bonus payment,2025-02-28,8,Income
+-229.99,Walmart - books - Inc,2024-11-09,3,Shopping
+-580.4000541729558,Pharmacy - vitamins,2025-08-09,6,Healthcare
+-1714,Internet service - Verizon,2025-08-06,5,Bills & Utilities
+-898.9105184431247,Walmart - toys,2025-08-08,3,Shopping
+-1953,Phone bill - T-Mobile,2025-09-20,5,Bills & Utilities
+-640.9401442489753,Amazon purchase - electronics,2025-03-28,3,Shopping
+-2394,Internet service - Spectrum - Refund,2025-09-20,5,Bills & Utilities
+-46.025,Lyft to hospital,2023-11-14,2,Transportation
+-57.99,DoorDash delivery,2024-04-26,1,Food & Dining
+-33.5,Breakfast at Morning Brew,2025-07-10,1,Food & Dining
+-57.0,Grocery shopping at Costco - Transaction 544,2024-11-18,1,Food & Dining
+-57.372176008672305,Metro card reload,2023-12-02,2,Transportation
+-744.3843526174319,Doctor visit - orthopedics,2023-10-25,6,Healthcare
+-206.98422356283487,Target - home goods,2024-02-07,3,Shopping
+4969.390444166409,Investment dividend,2025-08-14,8,Income
+-40.95,Coffee at Peet's Coffee,2024-06-10,,
+-478,Insurance payment - life,2025-07-28,5,Bills & Utilities
+-46.5,Breakfast at Coffee Bean,2024-11-26,1,Food & Dining
+-124.99,Online order from Target,2025-06-28,3,Shopping
+-64.49,Breakfast at Morning Brew,2025-09-20,1,Food & Dining
+-77.303,Lyft to mall,2025-06-02,2,Transportation
+-323.99,Walmart - electronics,2024-05-30,3,Shopping
+-28.5,Coffee at Starbucks - App,2024-11-18,1,Food & Dining
+-598.1470158380117,Online order from Best Buy,2025-06-22,3,Shopping
+-81.0,Coffee at Caribou Coffee,2024-09-10,1,Food & Dining
+-28.0,Grocery shopping at Costco,2025-08-23,1,Food & Dining
+-713.7754846085771,Best Buy - toys,2024-08-18,3,Shopping
+-323,Phone bill - AT&T,2025-09-18,5,Bills & Utilities
+-63.743,Parking at downtown,2024-09-28,2,Transportation
+-411.99,Target - books,2024-02-07,3,Shopping
+-2106,Internet service - AT&T,2024-12-15,5,Bills & Utilities
+-396.1667706966092,Doctor visit - general,2025-05-11,6,Healthcare
+-146.38974320561843,Video game - Minecraft,2025-01-27,4,Entertainment
+-545.99,Amazon purchase - clothing,2023-10-01,3,Shopping
+-19.95,Breakfast at Corner Cafe,2023-09-25,1,Food & Dining
+5589.3609056697915,Freelance payment - Small Business,2024-04-26,8,Income
+-1996.1281785060826,Savings account transfer,2025-04-04,9,Savings
+-81.0,Grocery shopping at Safeway,2025-06-27,1,Food & Dining
+-1393,Internet service - Spectrum,2024-08-21,5,Bills & Utilities
+5037.472618554054,Salary deposit - Local Business,2025-08-12,8,Income
+-188.86742899403708,Streaming service - Disney+ - Branch 92,2024-11-08,4,Entertainment
+-40.5,Dinner at Panera,2024-10-23,1,Food & Dining
+-1547,Internet service - AT&T,2025-04-02,5,Bills & Utilities
+-168.89829787472812,Target - books,2024-12-13,3,Shopping
+-25.096669499132616,Uber ride to downtown,2024-10-24,2,Transportation
+-646.99,Amazon purchase - home goods,2025-06-12,3,Shopping
+-297.6599268067332,Spotify Premium,2025-04-04,4,Entertainment
+-15.832678413024688,Metro card reload,2024-09-20,2,Transportation
+-717.99,Best Buy - books,2025-06-29,3,Shopping
+-694.7903347626694,Amazon purchase - clothing,2024-03-11,3,Shopping
+-69.9722549711389,Parking at hospital,2025-01-29,2,Transportation
+-472.99,Online order from Best Buy,2023-10-05,,
+-74.5,Grocery shopping at Target,2023-11-30,1,Food & Dining
+-17.669,Parking at mall,2025-09-02,2,Transportation
+-27.0,Takeout from Panera,2024-10-06,1,Food & Dining
+-645.99,Target - toys,2024-04-10,3,Shopping
+-472.99,Online order from Amazon,2024-02-06,3,Shopping
+-2226,Insurance payment - life,2025-09-19,5,Bills & Utilities
+-679.3100445613068,Amazon purchase - books,2025-03-19,3,Shopping
+-59.12203381405576,Parking at downtown,2024-03-11,2,Transportation
+-2482,Electric bill - March,2025-03-24,5,Bills & Utilities
+-2018.9255308786828,Rental car - Hertz,2024-12-14,7,Travel
+-856.2183930099675,Walmart - electronics,2024-04-19,3,Shopping
+-555.99,Best Buy - books,2024-04-19,3,Shopping
+-453,Internet service - Comcast,2025-09-21,5,Bills & Utilities
+-76.87649237309036,Streaming service - Hulu,2024-12-18,4,Entertainment
+-34.99,Dinner at Chipotle,2025-03-14,1,Food & Dining
+-203.99,Online order from Target,2025-05-29,3,Shopping
+-161.99,Online order from Target,2023-09-22,3,Shopping
+-2324,Insurance payment - auto,2025-09-18,5,Bills & Utilities
+-29.751593399005415,Eye exam,2024-01-10,6,Healthcare
+-51.838208012889055,Parking at downtown,2024-04-18,2,Transportation
+-53.51443182198489,Toll road payment,2024-04-23,2,Transportation
+-540.99,Best Buy - home goods,2023-10-30,3,Shopping
+-1412.0021332168487,Investment deposit,2025-09-16,9,Savings
+6616.446841443721,Investment dividend,2023-11-02,8,Income
+-433,Internet service - AT&T,2024-09-21,5,Bills & Utilities
+4637.006178477059,Investment dividend,2025-05-29,8,Income
+-316.8934081720428,Best Buy - toys,2024-08-29,3,Shopping
+-39.49,DoorDash delivery,2024-07-28,1,Food & Dining
+-652.99,Best Buy - electronics,2024-04-01,3,Shopping
+-186.60620316884717,Pharmacy - antibiotics,2024-03-04,6,Healthcare
+-12.805350093028776,Parking at hospital,2025-01-14,2,Transportation
+-22.5,Lunch at Chipotle,2023-12-17,1,Food & Dining
+-69.99,Dinner at Subway,2025-02-22,1,Food & Dining
+-409.97525748419196,Target - clothing 844,2023-10-22,3,Shopping
+-359.99,Walmart - home goods,2023-11-21,3,Shopping
+-114.97938401938221,Prescription - prescription,2023-11-07,6,Healthcare
+-35.5,Snacks at BP,2025-01-07,,
+6535.936731350304,Bonus payment 118,2024-06-01,8,Income
+-11.943882431925124,Uber ride to hospital,2024-04-18,2,Transportation
+-21.61225742842804,Uber ride to mall,2024-08-17,,
+-707,Internet service - Spectrum,2025-07-20,5,Bills & Utilities
+-852.2579938845595,Walmart - clothing,2023-11-04,3,Shopping
+-58.99,Coffee at Dunkin',2025-03-28,10,Miscellaneous
+-804.9978608897804,Hotel booking - Seattle,2024-07-27,7,Travel
+-56.53711144853358,Metro card reload,2023-10-27,2,Transportation
+-838.8403707979872,Pharmacy - prescription,2024-06-06,6,Healthcare
+-13.49,Coffee at Peet's Coffee,2024-10-07,1,Food & Dining
+-27.5,Grocery shopping at Walmart,2025-06-05,1,Food & Dining
+-75.5,Postmates delivery,2024-12-08,1,Food & Dining
+-26.99,Uber Eats delivery,2023-12-15,1,Food & Dining
+3983.2034864690086,Salary deposit - Local Business,2025-07-01,8,Income
+-306.99,Amazon purchase - home goods,2025-09-17,3,Shopping
+3264.54682692488,Freelance payment - Client A,2025-06-27,8,Income
+-592.880643591779,Dental cleaning,2025-08-31,6,Healthcare
+-67.54672462456186,Parking at downtown,2025-02-23,2,Transportation
+-7.461,Gas at Shell,2025-01-23,2,Transportation
+-12.99,Dinner at McDonald's,2025-07-01,1,Food & Dining
+-4.99,Coffee at Caribou Coffee,2025-04-01,1,Food & Dining
+-20.574238805825487,Lyft to downtown,2024-11-24,2,Transportation
+-543.0325433680325,Online order from Home Depot 229,2025-01-28,3,Shopping
+-972,Water bill - March - Adjustment,2024-03-11,5,Bills & Utilities
+-2026.960012330935,Airbnb - Los Angeles,2024-09-08,7,Travel
+-72.42299435728279,Video game - Call of Duty,2024-09-13,4,Entertainment
+-390.36880816631157,Eye exam,2024-06-15,6,Healthcare
+1399.3704002513552,Freelance payment - Client A,2024-03-22,8,Income
+-79.81581514288175,Toll road payment,2025-01-14,2,Transportation
+-2738.875204498595,Rental car - Enterprise,2025-07-01,7,Travel
+-3.938926833507,Gas at Exxon,2024-03-11,2,Transportation
+-1452.6680964320312,Retirement contribution,2024-05-15,9,Savings
+-217.99,Online order from Best Buy,2024-02-02,3,Shopping
+-10.015812925308001,Lyft to airport,2023-11-28,2,Transportation
+-247.921127590299,Spotify Premium,2023-11-14,4,Entertainment
+-409.99,Best Buy - clothing 790,2024-12-12,3,Shopping
+-187.99,Amazon purchase - home goods,2025-02-25,3,Shopping
+-830.4266990439421,Target - electronics,2024-07-09,3,Shopping
+-11.886526141308027,Metro card reload,2025-05-11,2,Transportation
+8273.18776469749,Refund - Amazon,2024-10-15,8,Income
+-52.95,Takeout from Chipotle,2024-01-25,1,Food & Dining
+-440.6164165891575,Best Buy - home goods,2025-04-27,3,Shopping
+-39.08830919238535,Uber ride to downtown,2024-12-10,2,Transportation
+-420.47414121314233,Target - clothing,2025-08-26,3,Shopping
+-135.12672139478113,Video game - Call of Duty,2024-09-21,4,Entertainment
+-530.3724460196429,Dental cleaning,2024-05-06,6,Healthcare
+-635.4469435349197,Pharmacy - prescription,2024-02-19,6,Healthcare
+-1096,Electric bill - March,2024-03-26,5,Bills & Utilities
+-77,Water bill - April,2024-08-07,5,Bills & Utilities
+-384.99,Amazon purchase - books - Store 74,2023-11-23,3,Shopping
+-1908.9728341870239,Hotel booking - Los Angeles,2023-12-05,7,Travel
+-10.49,Coffee at Dunkin' - -10.49,2025-04-07,1,Food & Dining
+-448.55552661503543,Airbnb - Seattle,2024-12-23,7,Travel
+3108.444914365265,Freelance payment - Client A,2024-12-05,8,Income
+-44.99,Lunch at McDonald's,2025-05-23,1,Food & Dining
+-27.5,Breakfast at Coffee Bean,2024-12-26,1,Food & Dining
+4473.868310109534,Refund - Target,2025-02-01,8,Income
+-695.8164087947109,Walmart - home goods,2023-10-09,3,Shopping
+-82.987,Lyft to hospital,2025-08-14,2,Transportation
+-143,Insurance payment - home,2025-05-17,5,Bills & Utilities
+-33.49,Grocery shopping at Safeway,2025-08-04,1,Food & Dining
+-51.99,Lunch at Domino's,2024-08-14,1,Food & Dining
+-981,Electric bill - January,2025-06-04,5,Bills & Utilities
+-2004,Water bill - April,2025-04-09,5,Bills & Utilities
+-435.99,Target - toys,2024-06-03,3,Shopping
+-402.67905380238227,Airbnb - New York,2023-06-22,7,Travel
+-10.0,Grocery shopping at Walmart,2025-06-24,1,Food & Dining
+-73.586,Parking at airport - Store 13,2024-09-02,2,Transportation
+-276.3342000780065,Netflix subscription,2025-05-15,4,Entertainment
+-485,Water bill - May,2025-09-18,5,Bills & Utilities
+3497.1058220805935,Bonus payment,2025-02-03,8,Income
+-502.99,Amazon purchase - home goods,2023-11-19,3,Shopping
+-73.95,Coffee at Peet's Coffee,2024-03-03,1,Food & Dining
+-145,Electric bill - May,2025-09-04,5,Bills & Utilities
+-14.328366590526848,Spotify Premium,2025-08-04,4,Entertainment
+-727,Internet service - AT&T,2024-05-25,5,Bills & Utilities
+-697,Water bill - May,2025-09-18,5,Bills & Utilities
+-126.99,Walmart - clothing,2025-08-11,3,Shopping
+-214.8988760909683,Retirement contribution,2024-09-06,9,Savings
+-70.49,Coffee at Starbucks,2023-09-28,1,Food & Dining
+-111.30282571110772,Movie tickets at AMC,2025-05-15,4,Entertainment
+-688,Insurance payment - home,2025-09-16,5,Bills & Utilities
+-475.8543098084224,Eye exam,2024-09-29,6,Healthcare
+-54.0,Takeout from Panera,2025-08-30,1,Food & Dining
+-20.538,Gas at Circle K,2023-12-24,2,Transportation
+-196.22780498410472,Dental cleaning,2025-03-18,6,Healthcare
+-446.99,Amazon purchase - books,2024-06-17,3,Shopping
+-67.5,Snacks at 7-Eleven,2024-08-19,1,Food & Dining
+-197.82569487911388,Dental cleaning,2023-12-23,6,Healthcare
+-61.99,Grocery shopping at Walmart,2023-12-02,1,Food & Dining
+7392.4017732671755,Refund - Target,2024-01-16,8,Income
+-1990,Insurance payment - life,2024-11-25,5,Bills & Utilities
+-184.5966357243242,Spotify Premium,2024-12-26,4,Entertainment
+-1015.1413457582099,Savings account transfer,2024-07-07,9,Savings
+-40.58397681754274,Uber ride to downtown,2023-10-12,2,Transportation
+223.70623822525673,Salary deposit - Local Business,2024-04-11,8,Income
+-74.95,Grubhub delivery,2024-10-31,1,Food & Dining
+-124.99,Amazon purchase - clothing,2025-01-24,3,Shopping
+-36.5,Breakfast at Corner Cafe,2023-09-25,1,Food & Dining
+5995.0252706591755,Investment dividend,2025-08-26,8,Income
+-44.96238167184455,Walmart - toys,2024-06-15,3,Shopping
+-2059,Phone bill - T-Mobile,2024-01-22,5,Bills & Utilities
+-677.3621453138217,Target - toys,2025-02-03,3,Shopping
+-874,Phone bill - T-Mobile,2024-10-17,5,Bills & Utilities
+-6.5,Takeout from McDonald's - Corp,2025-05-27,1,Food & Dining
+-40.839152627384365,Gas at Exxon,2024-12-03,2,Transportation
+-320.68718434096286,Target - electronics,2024-03-05,3,Shopping
+-224.34138538483938,Spotify Premium,2025-01-05,4,Entertainment
+-563.8509208800515,Eye exam,2024-10-30,6,Healthcare
+-1212,Water bill - March - Fee,2025-09-21,5,Bills & Utilities
+-25.55145630438875,Lyft to airport,2024-10-18,2,Transportation
+-30.16444176218736,Gas at BP,2025-02-10,2,Transportation
+-604.3032431218606,Doctor visit - orthopedics,2025-07-11,6,Healthcare
+-65.23171165321313,Parking at hospital,2024-10-04,2,Transportation
+-5.0,Takeout from Taco Bell,2024-03-13,1,Food & Dining
+-76.5,Uber Eats delivery,2024-06-08,1,Food & Dining
+-351.99,Target - home goods,2024-05-27,3,Shopping
+-3278.513114935923,Airbnb - Seattle,2024-06-14,7,Travel
+-2012,Water bill - April,2024-01-04,5,Bills & Utilities
+-9.5,Grocery shopping at Whole Foods,2024-07-10,1,Food & Dining
+-20.628392425742145,Toll road payment - -20.628392425742145,2025-06-03,2,Transportation
+-15.95,Grocery shopping at Trader Joe's,2025-02-02,1,Food & Dining
+-1432.279222365683,Airbnb - Chicago - Store 88,2024-08-09,7,Travel
+-3052.400676384357,Flight tickets - Delta - Fee,2023-08-01,7,Travel
+-8.677,Lyft to hospital,2024-03-22,2,Transportation
+-22.052111687567287,Gas at Exxon,2023-11-17,2,Transportation
+-12.99,Grocery shopping at Walmart,2025-02-09,1,Food & Dining
+-69.99,Dinner at Panera,2024-10-11,1,Food & Dining
+-375.43318970557203,Prescription - antibiotics,2024-09-28,6,Healthcare
+-164.7805836096178,Pharmacy - prescription,2024-02-29,6,Healthcare
+3141.118808696918,Bonus payment,2024-01-07,8,Income
+-657.8686535905633,Eye exam,2023-10-27,6,Healthcare
+-21.647,Lyft to mall,2024-09-10,2,Transportation
+-105.30470275419204,Netflix subscription,2024-08-09,4,Entertainment
+-1679,Internet service - Verizon,2024-12-30,5,Bills & Utilities
+-365.99,Best Buy - home goods,2024-08-06,3,Shopping
+-724.99,Amazon purchase - clothing,2025-08-05,3,Shopping
+185.8135382194305,Investment dividend,2025-07-09,8,Income
+-108,Internet service - AT&T,2025-09-17,5,Bills & Utilities
+-73.88725465557758,Netflix subscription,2024-06-17,4,Entertainment
+-44.49,Takeout from Pizza Hut,2023-10-07,1,Food & Dining
+-424.8381324449818,Best Buy - toys,2024-09-30,3,Shopping
+-363.2696968935586,Savings account transfer,2025-02-12,9,Savings
+-1626,Insurance payment - auto,2025-05-08,5,Bills & Utilities
+-1852,Electric bill - February,2025-09-20,5,Bills & Utilities
+-59.99,Postmates delivery,2025-02-16,1,Food & Dining
+-2110.5585696586586,Flight tickets - Southwest,2025-12-27,7,Travel
+-677,Insurance payment - home,2024-11-22,5,Bills & Utilities
+-178.78758077018193,Movie tickets at Cinemark,2023-10-05,4,Entertainment
+-339.0861894397667,Amazon purchase - electronics,2024-03-30,,
+-20.545208459794445,Toll road payment,2023-09-28,2,Transportation
+-603.0567671162166,Online order from Best Buy,2024-05-10,3,Shopping
+-13.0,Grocery shopping at Target,2024-05-25,1,Food & Dining
+-632.99,Best Buy - books,2024-11-28,3,Shopping
+-225.32794022629054,Amazon purchase - books,2025-06-10,3,Shopping
+-54.0,Breakfast at Coffee Bean,2024-05-07,1,Food & Dining
+3815.6749394308986,Salary deposit - Local Business,2024-04-22,8,Income
+-435.7066258504481,Savings account transfer,2023-11-19,9,Savings
+-474.99,Walmart - clothing,2024-10-11,,
+-138,Phone bill - Sprint,2025-09-16,5,Bills & Utilities
+-1150,Electric bill - March - Tip,2025-09-19,5,Bills & Utilities
+-52.511,Gas at Chevron,2024-10-11,2,Transportation
+-2252,Insurance payment - health,2024-08-17,5,Bills & Utilities
+-38.5,Breakfast at Corner Cafe,2024-06-04,1,Food & Dining
+-115.93284873638645,Spotify Premium,2024-07-24,4,Entertainment
+-175.03547611241737,Online order from Target,2024-06-16,3,Shopping
+-23.845146924762474,Video game - Call of Duty,2024-08-12,4,Entertainment
+-49.248,Parking at mall,2024-02-18,2,Transportation
+-44.0,Coffee at Local Coffee Co.,2023-10-23,1,Food & Dining
+-61.0,Takeout from Domino's,2024-08-03,1,Food & Dining
+-79.0,Coffee at Dunkin',2023-10-16,1,Food & Dining
+-184.86981831549392,Netflix subscription,2025-09-01,4,Entertainment
+-797.5350511277455,Walmart - clothing 833,2024-03-28,3,Shopping
+-880.8982952962267,Walmart - toys,2025-07-02,3,Shopping
+-22.937,Uber ride to downtown,2024-12-24,2,Transportation
+-31.652467634194107,Dental cleaning,2025-04-13,6,Healthcare
+-45.0,Grocery shopping at Kroger,2025-02-09,1,Food & Dining
+-700,Phone bill - T-Mobile,2023-12-15,5,Bills & Utilities
+3019.386180512563,Salary deposit - Consulting Inc,2025-02-23,8,Income
+-8.5,Lunch at Subway,2024-05-21,1,Food & Dining
+-45.34952545926339,Parking at airport,2025-01-18,2,Transportation
+-34.99,Grocery shopping at Costco,2025-06-18,1,Food & Dining
+-215.5314855907377,Streaming service - Prime Video,2025-06-30,4,Entertainment
+-14.49,Takeout from Taco Bell,2024-05-19,1,Food & Dining
+-77.99,Lunch at Subway,2024-05-16,1,Food & Dining
+6946.940331492817,Bonus payment,2025-01-13,8,Income
+-65.055,Uber ride to mall,2025-08-10,2,Transportation
+-890.441045891916,Best Buy - toys,2025-09-12,3,Shopping
+-77.46379196673425,Best Buy - electronics,2025-03-04,3,Shopping
+-854.99,Amazon purchase - clothing,2024-11-23,3,Shopping
+-1842,Phone bill - Verizon,2024-01-28,5,Bills & Utilities
+-221.53649520089638,Streaming service - Disney+,2024-08-10,4,Entertainment
+-373.6699802705067,Eye exam,2024-10-16,6,Healthcare
+-607.0575614521007,Eye exam,2024-08-07,6,Healthcare
+-70.915,Lyft to mall,2025-05-18,2,Transportation
+6445.574621695048,Salary deposit - Consulting Inc,2024-08-02,8,Income
+-972.1404696571702,Savings account transfer,2023-09-22,9,Savings
+-301.99,Walmart - clothing,2024-07-23,3,Shopping
+6357.934606891462,Investment dividend 659,2024-08-30,8,Income
+-66.99,Coffee at Peet's Coffee,2025-08-20,1,Food & Dining
+-40.5,Grocery shopping at Kroger,2024-05-14,1,Food & Dining
+-63.95,Grocery shopping at Costco,2024-06-09,1,Food & Dining
+-1533,Phone bill - AT&T,2025-04-30,5,Bills & Utilities
+-1122.188587748628,Savings account transfer,2024-06-09,9,Savings
+-811.5817497975195,Best Buy - toys,2024-09-10,3,Shopping
+-3.95,Takeout from Subway,2025-04-05,1,Food & Dining
+-1855.1882297541088,Emergency fund transfer,2023-10-07,9,Savings
+-34.49,Breakfast at Morning Brew - Tax,2025-06-17,1,Food & Dining
+-175.42594233301998,Streaming service - Hulu,2023-11-28,4,Entertainment
+-63.61491611104698,Lyft to mall,2025-06-06,2,Transportation
+-20.99,Breakfast at Morning Brew,2024-10-01,1,Food & Dining
+-1927,Phone bill - AT&T,2024-03-27,5,Bills & Utilities
+-37.0,Breakfast at Coffee Bean 10,2024-01-25,1,Food & Dining
+4408.718575778853,Investment dividend,2024-01-18,8,Income
+-193.60546557977958,Flight tickets - American,2024-07-26,7,Travel
+-42.322,Gas at Circle K,2025-06-30,2,Transportation
+-47.5,DoorDash delivery,2025-09-13,1,Food & Dining
+2087.09046687503,Freelance payment - Client A - Credit,2024-08-08,8,Income
+-44.0,Lunch at Panera - Location 65,2025-06-11,1,Food & Dining
+-451.2374048623698,Target - toys - Adjustment,2025-03-21,3,Shopping
+-87.9871906168345,Streaming service - HBO Max,2023-11-11,4,Entertainment
+-14.5,Snacks at Shell,2025-09-18,1,Food & Dining
+-1566,Water bill - May,2025-09-19,5,Bills & Utilities
+-122.82047778099313,Doctor visit - dermatology,2025-07-18,6,Healthcare
+-739.99,Walmart - clothing,2025-06-08,3,Shopping
+-14.95,Breakfast at Corner Cafe - Tax,2023-12-20,1,Food & Dining
+-1179,Internet service - Spectrum,2025-09-19,5,Bills & Utilities
+-33.49,Grocery shopping at Target,2025-08-27,10,Miscellaneous
+-37.00357860228031,Amazon purchase - clothing,2024-02-12,3,Shopping
+-65.95,Takeout from McDonald's,2024-02-10,1,Food & Dining
+-758.6054043549078,Doctor visit - orthopedics - Inc,2024-02-29,6,Healthcare
+-1129.796717696284,Retirement contribution,2024-02-02,9,Savings
+-80.5,Dinner at Pizza Hut,2023-11-19,1,Food & Dining
+-2171,Internet service - Comcast,2025-08-04,5,Bills & Utilities
+-18.0,Lunch at Panera,2024-05-31,1,Food & Dining
+-12.270262095332173,Gas at BP,2025-04-29,2,Transportation
+-619.6147637867106,Doctor visit - general - Credit,2024-08-18,6,Healthcare
+-190.99,Online order from Amazon,2024-11-26,3,Shopping
+-20.787439041913313,Gas at Exxon,2025-03-06,2,Transportation
+-1143,Insurance payment - life,2025-01-18,5,Bills & Utilities
+-38.757,Lyft to mall,2024-01-19,2,Transportation
+-256.0483973311223,Online order from Home Depot,2025-05-19,3,Shopping
+-231.36615424096811,Target - books,2024-06-21,3,Shopping
+-1507,Insurance payment - home,2025-09-21,5,Bills & Utilities
+-20.631,Metro card reload,2025-09-01,2,Transportation
+-158.77588684156407,Video game - Call of Duty,2023-12-15,4,Entertainment
+-447.7750228298535,Best Buy - home goods,2024-09-05,3,Shopping
+-63.49,Takeout from Chipotle,2024-12-08,1,Food & Dining
+4662.002001745031,Bonus payment,2024-10-13,8,Income
+-1011.6474375822544,Retirement contribution,2025-02-25,9,Savings
+-1173,Electric bill - March,2024-07-29,5,Bills & Utilities
+-374.57659214870694,Best Buy - books,2024-11-03,3,Shopping
+-33.95,Grocery shopping at Safeway,2024-05-23,1,Food & Dining
+-3.503878569551174,Metro card reload,2024-10-31,2,Transportation
+-28.99,Amazon purchase - home goods - App,2025-08-02,3,Shopping
+-2341.5816599367545,Hotel booking - Seattle,2025-03-10,7,Travel
+-64.53013039168383,Streaming service - Disney+,2023-10-27,4,Entertainment
+-9.656739802204502,Metro card reload 219,2025-03-09,2,Transportation
+-170,Insurance payment - health,2024-03-11,5,Bills & Utilities
+-81.95,Coffee at Starbucks - Tax,2024-06-21,1,Food & Dining
+-28.90368701771696,Uber ride to hospital,2024-05-18,2,Transportation
+-29.0,Dinner at Taco Bell,2024-06-28,1,Food & Dining
+-538.99,Walmart - toys,2023-10-26,3,Shopping
+-14.49,Snacks at 7-Eleven,2025-01-05,1,Food & Dining
+-34.49,Takeout from Taco Bell,2024-09-15,1,Food & Dining
+-51.55677660150862,Dental cleaning,2024-07-07,6,Healthcare
+-1042.651323984739,Retirement contribution,2024-08-02,,
+-41.5,Grocery shopping at Costco,2025-09-01,1,Food & Dining
+-702.99,Amazon purchase - electronics,2024-02-27,3,Shopping
+3213.7179952654055,Bonus payment,2024-10-01,8,Income
+-53.0,Coffee at Starbucks,2024-04-25,10,Miscellaneous
+-1541,Electric bill - May,2024-02-08,5,Bills & Utilities
+-54.409952317975645,Uber ride to office,2024-02-14,2,Transportation
+-986,Insurance payment - auto,2025-01-01,5,Bills & Utilities
+-1807,Water bill - March,2023-12-01,5,Bills & Utilities
+2434.6174070046336,Refund - Target,2025-01-11,8,Income
+-161.59344668577899,Movie tickets at Cinemark,2025-03-01,4,Entertainment
+-1171.828167899228,Flight tickets - United,2024-12-25,7,Travel
+2519.4013564565544,Salary deposit - Local Business,2023-10-23,8,Income
+4583.183895268585,Salary deposit - Consulting Inc,2023-11-10,8,Income
+-578.99,Walmart - home goods,2024-02-20,3,Shopping
+-3105.6981609113227,Airbnb - Miami,2025-01-02,7,Travel
+-309.99,Target - electronics,2024-09-01,3,Shopping
+-314.7701379088721,Online order from Walmart,2024-02-14,3,Shopping
+-295.2017638024552,Spotify Premium,2023-12-27,4,Entertainment
+7956.576113919135,Freelance payment - Small Business,2025-07-07,8,Income
+-266.99,Best Buy - books,2025-04-01,3,Shopping
+-210.70334496067682,Best Buy - clothing,2025-05-22,3,Shopping
+-42.0,Grocery shopping at Target,2023-11-16,1,Food & Dining
+-79.95,Coffee at Peet's Coffee,2025-06-17,1,Food & Dining
+-63.0,Breakfast at Morning Brew - Credit,2024-09-17,1,Food & Dining
+-318.99,Walmart - electronics,2025-04-17,3,Shopping
+-2350,Internet service - Spectrum,2024-03-28,5,Bills & Utilities
+-2014,Water bill - April,2025-09-19,5,Bills & Utilities
+-742.5920072744575,Retirement contribution,2025-05-04,9,Savings
+-432.99,Best Buy - electronics,2025-05-28,3,Shopping
+-2021,Insurance payment - life,2025-02-03,5,Bills & Utilities
+-15.49,Grocery shopping at Costco,2025-01-21,1,Food & Dining
+-640.99,Walmart - books,2024-02-13,3,Shopping
+-18.95,Breakfast at Corner Cafe,2024-06-04,1,Food & Dining
+-144.00878839933074,Pharmacy - pain relief,2024-11-17,6,Healthcare
+-784.8956266018484,Prescription - antibiotics,2024-04-24,6,Healthcare
+-2451,Electric bill - June,2025-09-10,5,Bills & Utilities
+-675.99,Walmart - books,2024-05-08,3,Shopping
+-764.3896178734019,Hotel booking - New York,2023-06-01,7,Travel
+-53.95,Breakfast at Morning Brew,2024-09-21,1,Food & Dining
+-13.5,Snacks at BP,2023-12-13,,
+-1822,Internet service - Verizon,2024-07-30,5,Bills & Utilities
+-26.99,Postmates delivery,2025-08-09,1,Food & Dining
+-72.0,Coffee at Starbucks,2025-07-25,10,Miscellaneous
+-183.73879276455196,Netflix subscription,2024-10-03,4,Entertainment
+-35.99,Breakfast at Corner Cafe,2024-01-09,1,Food & Dining
+-2057,Internet service - Spectrum,2025-08-26,5,Bills & Utilities
+-13.5,Snacks at 7-Eleven,2023-09-23,1,Food & Dining
+-808.9683872253673,Pharmacy - pain relief,2025-08-18,6,Healthcare
+-33.518,Parking at airport,2023-12-04,2,Transportation
+-3.95,Snacks at 7-Eleven,2024-08-09,1,Food & Dining
+-23.07761510122154,Gas at BP,2024-10-09,2,Transportation
+-234.99,Target - clothing,2024-02-23,3,Shopping
+-9.99,Coffee at Starbucks,2025-06-16,1,Food & Dining
+-586.4996148230613,Online order from Home Depot,2025-02-26,3,Shopping
+-51.65425586205747,Eye exam,2024-12-13,6,Healthcare
+-77.95,Snacks at Shell - Inc,2024-11-15,1,Food & Dining
+-169.99,Walmart - electronics,2024-12-11,3,Shopping
+-80.5,Grocery shopping at Target,2023-10-30,1,Food & Dining
+-49.49,Dinner at Chipotle,2024-02-25,1,Food & Dining
+-13.95,Snacks at BP,2025-09-06,1,Food & Dining
+-4.95,Lunch at Subway,2024-02-10,1,Food & Dining
+4035.4056413962794,Bonus payment,2025-04-18,8,Income
+-255.99,Online order from Best Buy,2024-03-31,3,Shopping
+-47.0,Postmates delivery,2024-02-16,1,Food & Dining
+-325.99,Walmart - books - Location 62,2023-10-08,3,Shopping
+-431.8380966721248,Amazon purchase - electronics - Purchase 880,2024-10-19,3,Shopping
+-74,Electric bill - January,2025-09-16,5,Bills & Utilities
+-781.8604003115082,Amazon purchase - home goods,2025-08-03,3,Shopping
+-493.99,Amazon purchase - electronics,2025-07-23,3,Shopping
+-532.99,Target - clothing,2024-12-29,3,Shopping
+-173.3562884646467,Best Buy - books,2024-11-19,3,Shopping
+-39.071909959895756,Lyft to mall - Branch 61,2024-11-08,2,Transportation
+-1353,Internet service - Comcast,2025-09-17,5,Bills & Utilities
+-64.1538973734599,Toll road payment - App,2024-06-30,2,Transportation
+-883.99,Online order from Amazon - Location 43,2025-06-27,3,Shopping
+-559.3272004395623,Emergency fund transfer,2025-08-08,9,Savings
+6168.408048100622,Freelance payment - Client A,2025-02-18,8,Income
+-1014,Electric bill - May,2024-03-14,5,Bills & Utilities
+-22.99,Dinner at Taco Bell,2024-02-19,1,Food & Dining
+-55.940955590747656,Metro card reload,2024-12-22,2,Transportation
+-767.99,Best Buy - clothing,2024-09-03,3,Shopping
+-754.3656020769029,Amazon purchase - books,2025-06-05,3,Shopping
+-2300.2815929933736,Rental car - Enterprise,2024-10-11,7,Travel
+-80.58709735042547,Lyft to downtown,2023-10-05,2,Transportation
+-71.5,Coffee at Peet's Coffee,2024-08-21,1,Food & Dining
+-56.147694473719845,Lyft to downtown,2025-03-16,2,Transportation
+-26.49,Grubhub delivery,2023-11-28,1,Food & Dining
+-551.99,Target - toys,2023-11-06,3,Shopping
+-55.80344561049581,Toll road payment,2024-05-23,2,Transportation
+-38.0,Takeout from Panera,2024-02-24,1,Food & Dining
+-265.00370697502854,Video game - Fortnite,2024-06-22,4,Entertainment
+6471.932323481013,Investment dividend,2025-07-27,8,Income
+-547.9225555330851,Online order from Home Depot,2024-03-26,3,Shopping
+-737.2123197451536,Target - electronics,2024-04-29,3,Shopping
+-1868,Electric bill - February,2024-02-15,5,Bills & Utilities
+-474.12484765927405,Rental car - Enterprise,2024-06-09,7,Travel
+-61.5,Snacks at 7-Eleven,2024-04-17,1,Food & Dining
+-2420,Internet service - AT&T,2025-09-20,5,Bills & Utilities
+-71.985,Metro card reload,2024-06-11,2,Transportation
+-263.99,Walmart - home goods,2024-11-01,3,Shopping
+-22.99,Grocery shopping at Target,2025-03-20,1,Food & Dining
+-939.3717193858022,Savings account transfer - Credit,2024-07-02,9,Savings
+-26.95,Dinner at Panera,2023-10-02,1,Food & Dining
+-274.8522184676214,Streaming service - Disney+ - Credit,2024-08-30,4,Entertainment
+7200.794536889671,Salary deposit - Tech Corp,2024-12-06,,
+-234,Insurance payment - life,2025-08-31,5,Bills & Utilities
+-516.99,Target - toys,2024-08-24,3,Shopping
+-7.5,DoorDash delivery,2023-12-20,1,Food & Dining
+-81.99,Breakfast at Corner Cafe,2025-02-03,1,Food & Dining
+-60.641,Uber ride to mall,2024-01-02,,
+-3495.677728484284,Airbnb - Miami,2024-09-17,7,Travel
+-2788.717643184189,Airbnb - Chicago,2025-07-27,7,Travel
+-71.5,Takeout from Subway,2023-11-30,1,Food & Dining
+-44.5,Takeout from Panera,2025-02-06,1,Food & Dining
+-34.49,Dinner at Taco Bell,2024-08-11,1,Food & Dining
+-76.49,Coffee at Starbucks,2025-04-06,1,Food & Dining
+-15.0,DoorDash delivery,2024-07-17,1,Food & Dining
+-1420,Internet service - Spectrum,2025-02-10,5,Bills & Utilities
+-62.0,Grocery shopping at Whole Foods,2024-10-30,1,Food & Dining
+-61.56809637995917,Parking at hospital,2024-01-05,2,Transportation
+-763.4115960402079,Best Buy - toys,2024-12-26,3,Shopping
+-7.95,Snacks at BP,2024-01-27,1,Food & Dining
+-61.15379499921278,Metro card reload,2023-11-26,2,Transportation
+-53.95,Snacks at Circle K,2025-06-29,1,Food & Dining
+-6.99,Coffee at Caribou Coffee,2025-01-29,,
+-6.471250360688534,Lyft to airport,2025-09-07,2,Transportation
+-686.5300951445181,Pharmacy - antibiotics,2024-06-25,6,Healthcare
+-56.88880537563125,Parking at airport,2025-01-08,2,Transportation
+-638,Internet service - AT&T,2024-11-26,5,Bills & Utilities
+-19.423899495800015,Netflix subscription,2025-06-15,4,Entertainment
+-30.49,Grocery shopping at Safeway,2025-08-31,1,Food & Dining
+-1941,Phone bill - AT&T,2024-11-26,5,Bills & Utilities
+-123.92183152634489,Movie tickets at Cinemark - Refund,2025-04-20,4,Entertainment
+-60.49,Dinner at Chipotle,2024-06-05,1,Food & Dining
+-210.34834945623,Prescription - vitamins,2024-03-10,6,Healthcare
+-49.79451595394392,Lyft to hospital,2023-10-07,2,Transportation
+-29.95,Grubhub delivery,2024-02-26,1,Food & Dining
+-66.99,Lunch at Panera,2025-02-26,1,Food & Dining
+-69.34178821962489,Toll road payment,2024-05-25,2,Transportation
+-225,Internet service - AT&T - Store 18,2024-04-18,5,Bills & Utilities
+-43.99,Uber Eats delivery,2024-04-23,10,Miscellaneous
+-197.99,Online order from Amazon,2024-04-15,,
+-60.99,Takeout from Panera,2024-05-19,1,Food & Dining
+-142.99,Target - clothing,2024-04-24,3,Shopping
+-841.99,Amazon purchase - books,2025-04-28,3,Shopping
+-381.99,Amazon purchase - home goods,2024-08-12,3,Shopping
+304.581434405603,Refund - Restaurant,2025-03-26,8,Income
+-575.99,Target - toys - Mobile,2024-02-09,3,Shopping
+-183.2323346174742,Video game - FIFA,2024-05-10,4,Entertainment
+-49.0,Snacks at BP,2025-06-22,1,Food & Dining
+-719.9367969157774,Walmart - clothing,2024-05-13,3,Shopping
+-195,Water bill - May,2024-02-03,5,Bills & Utilities
+-10.49,Grocery shopping at Target,2025-03-20,1,Food & Dining
+-1063,Insurance payment - life,2025-09-20,5,Bills & Utilities
+-613.9094629025316,Doctor visit - general,2023-12-25,6,Healthcare
+-47.33359672961079,Spotify Premium - Location 89,2025-06-27,4,Entertainment
+-794.941671636218,Eye exam,2023-12-27,6,Healthcare
+-124,Phone bill - AT&T - Fee,2025-02-10,5,Bills & Utilities
+-40.99,Lunch at McDonald's,2025-06-12,1,Food & Dining
+-442.99,Online order from Best Buy,2024-04-08,3,Shopping
+-67.99,Lunch at Pizza Hut,2025-06-02,1,Food & Dining
+-3079.559759761177,Hotel booking - Miami,2024-06-13,7,Travel
+-741.292567094767,Retirement contribution,2024-07-23,9,Savings
+-882.8374595845718,Online order from Amazon,2024-07-31,3,Shopping
+-60.045,Metro card reload,2024-10-06,2,Transportation
+-28.0,Grubhub delivery,2023-11-06,1,Food & Dining
+-19.92538770479922,Uber ride to hospital,2025-03-26,2,Transportation
+-39.0,Coffee at Peet's Coffee,2023-12-08,1,Food & Dining
+-1575,Water bill - January,2025-02-12,5,Bills & Utilities
+-230.99,Target - clothing,2025-04-10,3,Shopping
+-17.49,Dinner at McDonald's,2023-12-24,1,Food & Dining
+-888.99,Target - books,2023-11-07,3,Shopping
+-67.5,Uber Eats delivery,2025-05-20,1,Food & Dining
+-25.99,Postmates delivery,2025-02-17,1,Food & Dining
+-591.5313965569142,Doctor visit - general,2023-12-03,,
+-59.5,Takeout from McDonald's,2025-09-07,1,Food & Dining
+-62.504,Metro card reload - -62.504,2024-02-03,2,Transportation
+-871.99,Online order from Home Depot - Purchase 923,2024-11-16,3,Shopping
+-67.86864475216849,Metro card reload,2023-12-28,2,Transportation
+-48.99,Coffee at Local Coffee Co.,2025-06-08,1,Food & Dining
+-33.812680475029225,Uber ride to hospital,2025-07-09,2,Transportation
+2324.9689647927985,Refund - Amazon,2025-07-09,8,Income
+-60.61310254072054,Toll road payment,2024-03-04,2,Transportation
+-179.91856054532798,Spotify Premium,2024-11-28,4,Entertainment
+-24.0710106569825,Streaming service - Prime Video,2025-03-13,4,Entertainment
+-535.99,Best Buy - home goods,2025-04-24,3,Shopping
+-44.044,Metro card reload,2024-01-31,2,Transportation
+-339.59587367655143,Pharmacy - prescription 338,2024-04-04,6,Healthcare
+-782.73668019062,Online order from Target,2025-08-04,3,Shopping
+-61.95,Snacks at Shell,2025-04-07,1,Food & Dining
+-515.99,Amazon purchase - home goods,2024-03-01,3,Shopping
+-1623,Water bill - June,2025-09-15,5,Bills & Utilities
+-31.119,Parking at downtown,2023-10-16,2,Transportation
+-606.6083519699565,Online order from Target,2025-08-08,3,Shopping
+-2.6981645592537076,Toll road payment,2024-03-25,2,Transportation
+-84.0,Grocery shopping at Whole Foods,2024-07-18,1,Food & Dining
+6600.3033287452245,Refund - Amazon,2024-04-20,8,Income
+5922.017874446,Investment dividend - Tip,2023-09-23,8,Income
+-49.95,Snacks at 7-Eleven,2024-04-15,1,Food & Dining
+-93.7925587087913,Netflix subscription,2025-08-26,4,Entertainment
+2674.4109327369915,Freelance payment - Small Business,2024-05-29,8,Income
+-265.99,Target - clothing,2024-05-03,3,Shopping
+4936.751628543301,Bonus payment,2024-09-26,8,Income
+-124.83126329631057,Spotify Premium,2024-05-17,4,Entertainment
+-74.16814224925649,Lyft to office,2024-10-26,2,Transportation
+-1280.4330784737137,Retirement contribution,2025-05-21,9,Savings
+-78.95,Takeout from Pizza Hut,2024-04-13,1,Food & Dining
+-14.95,Lunch at McDonald's,2024-08-07,1,Food & Dining
+-172.77741541100272,Spotify Premium,2024-10-03,4,Entertainment
+-999,Electric bill - April,2024-09-11,5,Bills & Utilities
+-39.34875765591405,Lyft to hospital,2025-06-25,2,Transportation
+-134,Internet service - Verizon,2025-09-19,5,Bills & Utilities
+-14.99,Uber Eats delivery - Online,2025-01-13,1,Food & Dining
+-648.1264374103437,Airbnb - Chicago,2023-10-26,7,Travel
+-315,Internet service - Comcast,2024-11-11,5,Bills & Utilities
+-10.931,Uber ride to office,2024-11-26,2,Transportation
+4431.000255092246,Investment dividend,2024-07-26,8,Income
+-54.49,Takeout from Taco Bell,2024-10-18,1,Food & Dining
+-40.03337592564674,Prescription - pain relief,2023-12-31,6,Healthcare
+-67.95,Grubhub delivery,2023-11-01,1,Food & Dining
+-61.95,Dinner at Panera,2024-06-21,1,Food & Dining
+-8.613137828432093,Toll road payment,2024-06-30,2,Transportation
+-1278,Internet service - Verizon,2023-10-25,5,Bills & Utilities
+-48.59742663031201,Lyft to office,2025-02-22,2,Transportation
+-2414,Internet service - Comcast - -2414,2024-02-29,5,Bills & Utilities
+-55.95,Grocery shopping at Walmart,2025-04-06,1,Food & Dining
+-544.99,Walmart - toys,2024-11-26,3,Shopping
+-38.5,Dinner at Taco Bell - Refund,2023-12-02,1,Food & Dining
+6435.309043793939,Investment dividend,2024-10-29,8,Income
+-803.409248064053,Rental car - Enterprise,2025-06-19,7,Travel
+-1969,Phone bill - Verizon,2025-05-18,5,Bills & Utilities
+-801,Insurance payment - auto,2024-10-02,5,Bills & Utilities
+-61.763,Uber ride to mall,2025-06-01,2,Transportation
+-624.99,Walmart - clothing - Refund,2024-09-08,3,Shopping
+-83.51794177435747,Toll road payment - -83.51794177435747,2024-06-26,2,Transportation
+-1750,Electric bill - June,2025-09-21,5,Bills & Utilities
+-758.99,Target - clothing,2024-02-09,3,Shopping
+-147.0251281197605,Pharmacy - prescription,2024-03-08,6,Healthcare
+-6.95,Grocery shopping at Safeway,2024-05-11,1,Food & Dining
+-273.99,Walmart - electronics,2025-05-18,3,Shopping
+-771.2566924674876,Pharmacy - antibiotics,2024-12-17,6,Healthcare
+-379.9477338128436,Walmart - home goods,2024-07-12,3,Shopping
+-14.870254608552871,Uber ride to downtown,2024-12-07,2,Transportation
+-45.99691297131152,Gas at Circle K,2024-04-09,2,Transportation
+-550.4261730525923,Investment deposit,2023-10-30,9,Savings
+-64.71625276496154,Uber ride to airport,2025-08-02,2,Transportation
+-1486,Insurance payment - auto,2025-08-29,5,Bills & Utilities
+-52.95,Coffee at Caribou Coffee - Location 32,2024-05-11,10,Miscellaneous
+-62.0,Lunch at Chipotle,2024-11-28,1,Food & Dining
+-49.95,Takeout from Panera,2023-09-26,1,Food & Dining
+-86.08864304245617,Amazon purchase - books,2025-04-14,3,Shopping
+-22.513792221416985,Netflix subscription,2024-02-25,4,Entertainment
+-27.567446813663754,Gas at Circle K,2025-03-07,2,Transportation
+-59.51191297134651,Gas at BP,2023-09-24,2,Transportation
+4661.726076172595,Bonus payment,2024-10-12,8,Income
+-655.1440481907305,Target - toys,2024-09-08,3,Shopping
+-50.83673764126447,Uber ride to mall,2025-07-25,2,Transportation
+-2437.552360855463,Rental car - Budget - Location 62,2025-08-08,7,Travel
+-652.3751376960165,Hotel booking - Chicago,2024-12-09,7,Travel
+-734.99,Target - toys,2024-06-03,3,Shopping
+-240.54962429505787,Video game - Call of Duty,2024-11-13,4,Entertainment
+-61.49,Snacks at BP,2023-12-30,1,Food & Dining
+-25.49,Grocery shopping at Trader Joe's,2025-07-06,1,Food & Dining
+-31.95,Breakfast at Coffee Bean,2024-10-20,1,Food & Dining
+1205.7775254072078,Refund - Target,2024-10-10,8,Income
+-425.99,Target - electronics,2025-01-11,3,Shopping
+2516.199051677299,Refund - Restaurant,2024-10-22,8,Income
+-55.99,Walmart - books,2023-09-22,3,Shopping
+-2028.2322736095398,Airbnb - Chicago,2025-12-13,7,Travel
+-590.5031101138042,Prescription - antibiotics,2023-10-04,6,Healthcare
+-153.10251001414744,Video game - Fortnite,2025-03-05,4,Entertainment
+5465.422391080548,Bonus payment,2024-09-03,8,Income
+-42.17921223604055,Metro card reload - Store 21,2025-08-24,2,Transportation
+-79.5,Breakfast at Corner Cafe,2024-12-17,1,Food & Dining
+-873.99,Online order from Best Buy,2024-08-22,3,Shopping
+-81.5,Grocery shopping at Target,2023-11-19,1,Food & Dining
+-894.3100886739749,Amazon purchase - home goods,2025-04-04,3,Shopping
+-59.99,Coffee at Dunkin' - Store 52,2024-10-08,1,Food & Dining
+-41.1183827410064,Toll road payment,2025-03-04,2,Transportation
+-81.25081414867901,Parking at mall,2025-04-10,2,Transportation
+-25.49,Coffee at Dunkin',2023-11-26,1,Food & Dining
+-45.99,Dinner at Chipotle,2024-06-13,1,Food & Dining
+-32.0,Coffee at Dunkin',2025-07-18,1,Food & Dining
+-40.99,Coffee at Caribou Coffee,2024-07-12,1,Food & Dining
+-1300,Electric bill - June - -1300,2024-03-02,5,Bills & Utilities
+-51.0,Dinner at Subway,2025-07-06,1,Food & Dining
+8324.477891270993,Bonus payment,2024-04-04,8,Income
+-668.9782916580299,Pharmacy - vitamins,2025-05-24,6,Healthcare
+-753.6848984801985,Savings account transfer,2025-06-15,9,Savings
+-350,Insurance payment - home,2025-09-18,5,Bills & Utilities
+-185,Internet service - Spectrum,2025-01-16,5,Bills & Utilities
+-73.18770980501074,Video game - Minecraft - Credit,2025-05-27,4,Entertainment
+-1176,Electric bill - May,2025-08-15,5,Bills & Utilities
+-509.6817869220564,Doctor visit - orthopedics,2023-10-04,6,Healthcare
+-347.99,Online order from Best Buy,2024-12-15,3,Shopping
+-72.95,Postmates delivery,2024-09-02,1,Food & Dining
+-61.921,Lyft to airport,2024-10-08,,
+-10.49,Dinner at Panera,2024-04-21,1,Food & Dining
+-3.99,Lunch at Chipotle,2024-09-03,1,Food & Dining
+-71.95,Lunch at Panera,2025-06-12,1,Food & Dining
+-619.165130187291,Best Buy - clothing,2024-07-04,3,Shopping
+-2001,Electric bill - May,2025-09-17,5,Bills & Utilities
+1535.8790806505383,Salary deposit - Tech Corp,2024-11-06,8,Income
+-33.49,Uber Eats delivery,2025-03-20,10,Miscellaneous
+-388.23103349681935,Walmart - clothing,2025-04-25,3,Shopping
+-386.6606666898616,Walmart - electronics,2023-10-24,3,Shopping

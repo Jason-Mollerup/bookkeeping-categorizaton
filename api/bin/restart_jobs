@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Restart job workers with optimized configuration
+echo "🔄 Restarting job workers with optimized configuration..."
+
+# Kill existing job processes
+pkill -f "bin/jobs" || true
+
+# Wait a moment for processes to clean up
+sleep 2
+
+# Start job workers with new configuration
+echo "🚀 Starting job workers..."
+bin/jobs &
+
+echo "✅ Job workers restarted successfully!"
+echo "📊 Monitor job queue status at: http://localhost:3000/api/v1/job_queue/status"
+echo "👥 View worker configuration at: http://localhost:3000/api/v1/job_queue/workers"
